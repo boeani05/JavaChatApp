@@ -51,11 +51,11 @@ Through the development of this server, I gained a comprehensive understanding o
     ```
 4.  **Compile the Java Code:**
     ```bash
-    javac src/com/boeani/chatapp/server/*.java
+    javac src/main/java/com/boeani/chatapp/server/*.java
     ```
 5.  **Start the Server:**
     ```bash
-    java -cp src com.boeani.chatapp.server.ServerApp
+    java src/main/java/com/boeani/chatapp/server/ServerApp
     ```
     You should see "Starting HTTP Server..." in your console. The server will then listen for incoming connections.
 
