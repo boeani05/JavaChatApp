@@ -30,7 +30,7 @@ Through the development of this server, I gained a comprehensive understanding o
 
 1.  **Clone the Repository:**
     ```bash
-    https://github.com/boeani05/JavaChatApp.git
+    git clone https://github.com/boeani05/JavaChatApp.git
     cd JavaChatApp
     ```
 2.  **Create the `webroot` Directory:**
