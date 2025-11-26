@@ -76,7 +76,3 @@ Through the development of this server, I gained a comprehensive understanding o
 5.  **Test `favicon.ico` (automatic browser request):**
     Simply accessing `http://localhost:8080/` should trigger your browser to request `/favicon.ico` automatically.
     *Expected:* No security warnings or errors in the server console for `favicon.ico`.
-
-## Author
-
-*   **<Dein Name>** - [Your GitHub Profile Link (optional)]
