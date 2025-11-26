@@ -30,8 +30,8 @@ Through the development of this server, I gained a comprehensive understanding o
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/<YourGitHubUsername>/<YourRepoName>.git
-    cd <YourRepoName>
+    https://github.com/boeani05/JavaChatApp.git
+    cd JavaChatApp
     ```
 2.  **Create the `webroot` Directory:**
     Ensure there is a directory named `webroot` in the root of your project (next to the `src` folder).
